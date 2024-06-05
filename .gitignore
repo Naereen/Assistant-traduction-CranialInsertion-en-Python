@@ -1,5 +1,6 @@
 # Ignored manually
 articles/
+*.cookies
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
