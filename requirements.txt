@@ -1,0 +1,3 @@
+# requirerements.txt
+scrython
+ipykernel
