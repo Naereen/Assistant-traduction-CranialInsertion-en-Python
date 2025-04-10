@@ -1,4 +1,4 @@
-# requirerements.txt
+# requirements.txt
 scrython
 ipykernel
 requests
