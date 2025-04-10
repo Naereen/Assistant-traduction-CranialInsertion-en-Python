@@ -45,7 +45,7 @@ ls -larth articles/francais/* | tail -n1
 -rw-rw-r-- 1 lilian lilian 13K juin   5 18:21 articles/francais/4238.md
 ```
 
-- [ ] Troisième étape : je rêve d'un script qui traduise tout seul le document pré-modifié. Cela semble difficile, ou plutôt, pas très malin : cette traduction automatique ne sera forcément pas  parfaite,, et il faudra donc y revenir. Autant juste avoir une base en anglais, avec les trucs pénibles déjà traduits (cf. étape précédente), et la traduire plus manuellement avec <https://DeepL.com/>, question par question, en éditant ce qu'il faut. Si besoin, DeepL a une API en Python, gratuite à 500 000 mots par mois, avec [ce module `deepl`](https://pypi.org/project/deepl/).
+- [ ] Troisième étape : je rêve d'un script qui traduise tout seul le document pré-modifié. Cela semble difficile, ou plutôt, pas très malin : cette traduction automatique ne sera forcément pas parfaite, et il faudra donc y revenir. Autant juste avoir une base en anglais, avec les trucs pénibles déjà traduits (cf. étape précédente), et la traduire plus manuellement avec <https://DeepL.com/>, question par question, en éditant ce qu'il faut. Si besoin, DeepL a une API en Python, gratuite à 500 000 mots par mois, avec [ce module `deepl`](https://pypi.org/project/deepl/).
 
 ----
 
