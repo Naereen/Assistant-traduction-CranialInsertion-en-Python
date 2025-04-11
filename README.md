@@ -4,7 +4,10 @@
 
 ## Objectifs
 
-Aider à la traduction des articles sur <https://www.cranial-insertion.com/>, que l'on doit chaque weekend traduire de l'anglais américain vers le français.
+Aider à la traduction des articles sur <https://www.cranial-insertion.com/>, que l'on 
+doit chaque weekend traduire de l'anglais américain vers le français.
+
+> J'ai beaucoup lu de ressources en ligne pour ce projet, notamment le super site <https://translateonlinux.org/> qui fait un bel état de l'art des logiciels (libres ou non) utilisables sur Ubuntu (ou GNU Linux) afin de faciliter le traitement automatique de fichiers de traduction.
 
 ## Choses à faire
 
